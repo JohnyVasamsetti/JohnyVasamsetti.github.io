@@ -20,12 +20,8 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: true,
-          projects: [],
+          projects: ["JohnyVasamsetti/github-actions","JohnyVasamsetti/JohnyVasamsetti"],
         },
-      },
-      manual: {
-        // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     }
   },
