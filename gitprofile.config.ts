@@ -119,7 +119,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -131,6 +131,12 @@ const CONFIG = {
 
     // Display the ring in Profile picture
     displayAvatarRing: true,
+
+    // Available themes. To remove any theme, exclude from here.
+    themes: [
+        'dark',
+        'light'
+    ],
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
