@@ -42,7 +42,7 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'vasamsetti.johny',
+    medium: '0xjohny',
     dev: '',
     stackoverflow: '',
     skype: '',
@@ -106,7 +106,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'vasamsetti.johny', // to hide blog section, keep it empty
+    username: '0xjohny', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
