@@ -72,7 +72,7 @@ const CONFIG = {
     'SpringBoot',
     'Django'
     'React.js',
-    'CSS',
+    'CSS'
   ],
   experiences: [
     {
