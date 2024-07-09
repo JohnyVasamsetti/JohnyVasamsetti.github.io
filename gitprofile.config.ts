@@ -58,7 +58,9 @@ const CONFIG = {
     'AWS',
     'Kubernetes',
     'Docker',
+    'Github Actions',
     'Terraform',
+    'CloudFormation',
     'Karpenter',
     'CI/CD',
     'Git',
@@ -67,8 +69,7 @@ const CONFIG = {
     'Java',
     'SpringBoot',
     'Django',
-    'React.js',
-    'CSS'
+    'React.js'
   ],
   experiences: [
     {
