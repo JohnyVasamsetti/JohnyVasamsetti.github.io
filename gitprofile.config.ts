@@ -67,6 +67,8 @@ const CONFIG = {
     'Bash',
     'Python',
     'Java',
+    'Data Structures & Algorithms',
+    'CPP',
     'SpringBoot',
     'Django',
     'React.js'
