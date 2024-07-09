@@ -70,7 +70,7 @@ const CONFIG = {
     'Python',
     'Java',
     'SpringBoot',
-    'Django'
+    'Django',
     'React.js',
     'CSS'
   ],
@@ -103,7 +103,7 @@ const CONFIG = {
       from: '2016',
       to: '2018',
     },
-  ]
+  ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
